@@ -19,7 +19,7 @@
 
 ## Артефакты
 - [User Stories](user-stories.md)
-- [Схема диалога](dialog-flow.png)
+- [Схема диалога](dialog-flow.jpg)
 - [Модель данных](data-model.md)
 - [Диаграмма последовательности](sequence.png)
 - [Спецификация API](api-spec.md)
