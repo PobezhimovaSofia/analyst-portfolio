@@ -21,7 +21,7 @@
 - [User Stories](user-stories.md)
 - [Схема диалога](dialog-flow.jpg)
 - [Модель данных](data-model.md)
-- [Диаграмма последовательности](sequence.png)
+- [Диаграмма последовательности](sequence.jpg)
 - [Спецификация API](api-spec.md)
 - [Нефункциональные требования](nfr.md)
 
