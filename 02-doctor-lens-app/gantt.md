@@ -3,6 +3,7 @@ gantt
     title Дорожная карта внедрения (16 месяцев)
     dateFormat  YYYY-MM-DD
     axisFormat  %b
+    todayMarker off
     
     section Этапы проекта
     Анализ требований и ТЗ       :a1, 2026-01-01, 120d
