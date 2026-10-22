@@ -28,6 +28,7 @@
 - [Дорожная карта внедрения (Gantt)](roadmap.md)
 - [Финансовая модель и окупаемость](financials.md)
 - [Риски проекта и KPI](risks-kpis.md)
+
 **Системный анализ:**
 - [Спецификация API для записи на прием](api-spec.md)
 - [Диаграмма интеграции (Sequence Diagram)](sequence-integration.md)
