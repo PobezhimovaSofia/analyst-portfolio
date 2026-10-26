@@ -46,9 +46,6 @@ POST /appointments — создать запись
 { "appointment_id": 777, "status": "created" }
 ```
 
-Возможные ошибки:
-
-· 400 Bad Request — неверные данные
-· 409 Conflict — слот уже занят
-
-```
+**Возможные ошибки:**
+* `400 Bad Request` — неверные данные
+* `409 Conflict` — слот уже занят
